@@ -1,7 +1,7 @@
 /* FloodFill is a very popular Algorithm in Computer Science
   so, What is FloodFill learn here:  https://www.geeksforgeeks.org/flood-fill-algorithm-implement-fill-paint/
   Approach Used: DFS (can also be implemented using BFS)
-  Time complexity: O(n)(m)
+  Time complexity: O(n*m)
   Space complexity  : O(1)
 */
 
