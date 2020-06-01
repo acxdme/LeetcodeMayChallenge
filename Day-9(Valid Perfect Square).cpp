@@ -1,5 +1,5 @@
-*/
-Below i have implemented using three approaches
+/*
+Below, I have implemented using three approaches
 " BEST "Time complexity : O(n)
 Space comlexity : O(1)
 }
